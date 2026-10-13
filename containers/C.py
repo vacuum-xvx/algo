@@ -9,7 +9,7 @@ for char in line:
     elif char in ['+', '-', '*']:
         a = stack.pop()
         b = stack.pop()
-        
+
         if char == '+':
             stack.append(b + a)
         elif char == '-':
