@@ -20,5 +20,7 @@ if __name__ == '__main__':
             if points[i].distance_squared() > points[j].distance_squared():
                 points[i], points[j] = points[j], points[i]
 
+    print('-' * 100)
+
     for p in points:
         print(p.x, p.y)
