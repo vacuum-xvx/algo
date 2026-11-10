@@ -6,3 +6,4 @@
 - [Бинарный поиск](binary_search/)
 - [Контейнеры](containers/)
 - [Куча](heap/)
+- [Бинарные деревья поиска](binary_search_tree/)
