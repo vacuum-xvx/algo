@@ -7,3 +7,4 @@
 - [Контейнеры](containers/)
 - [Куча](heap/)
 - [Бинарные деревья поиска](binary_search_tree/)
+- [Графы](graphs/)
